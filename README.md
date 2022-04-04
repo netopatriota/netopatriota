@@ -44,15 +44,8 @@ Em paralelo, também estou estudando Python.
 <a href="https://github.com/netopatriota">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netopatriota&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netopatriota&layout=compact&langs_count=6&theme=dark"/>
-<img align="right" height=300 width=300 alt="Patriota-Gif" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif">
 </div>  
 
-##
-  
-![Snake animation](https://github.com/netopatriota/netopatriota/blob/output/github-contribution-grid-snake.svg)
-  
-  
-          
 <!--
 **netopatriota/netopatriota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,6 +59,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
- 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+-->
