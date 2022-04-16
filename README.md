@@ -38,8 +38,8 @@ Estou aprofundando meus conhecimentos para migrar para a área de dados.
 ## ⚡ GitHub Stats
 
 <div>
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=netopatriota&count_private=true&theme=github_dark&include_all_commits=true" />
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netopatriota&layout=compact&theme=github_dark&include_all_commits=true" />
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=netopatriota&count_private=true&theme=dark&include_all_commits=true" />
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netopatriota&layout=compact&theme=dark&include_all_commits=true" />
 </div>
 
 <!--
