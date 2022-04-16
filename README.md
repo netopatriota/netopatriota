@@ -37,10 +37,16 @@ Estou aprofundando meus conhecimentos para migrar para a área de dados.
 
 ## ⚡ GitHub Stats
 
+<div>
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=netopatriota&count_private=true&theme=github_dark&include_all_commits=true" />
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netopatriota&layout=compact&theme=github_dark&include_all_commits=true" />
+</div>
+
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=netopatriota&show_icons=true&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netopatriota&theme=dark&hide=TeX&layout=compact)
 
-<!--
+
 **netopatriota/netopatriota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
