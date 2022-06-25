@@ -1,4 +1,4 @@
-## Olá, me chamo Reginaldo Patriota <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Olá, me chamo Reginaldo Patriota!
 
 ```
 Possuo graduação em Redes de Computadores e especialização em Engenharia e Administração de Dados.
