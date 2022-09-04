@@ -1,5 +1,5 @@
 ### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Reginaldo Patriota!    
-![](https://komarev.com/ghpvc/?username=adityassharma-ss&color=blue)
+![](https://komarev.com/ghpvc/?username=netopatriota-ss&color=blue)
 
 ```
 Professional graduated in Information Technology and postgraduate in Data Engineering.
