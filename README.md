@@ -1,12 +1,12 @@
-## Olá, me chamo Reginaldo Patriota!
+### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Reginaldo Patriota!    
+![](https://komarev.com/ghpvc/?username=adityassharma-ss&color=blue)
 
 ```
-Possuo graduação em Redes de Computadores e especialização em Engenharia e Administração de Dados.
-Atualmente sou estudante do Mestrado em Tecnologia da Informação pelo IFPB - Instituto Federal da Paraíba.
-Estou aprofundando meus conhecimentos para migrar para a área de dados.
+Professional graduated in Information Technology and postgraduate in Data Engineering.
+I'm currently a researcher and master's student in Machine Learning at IFPB.
 ```
 
-## 🚀💻 Ferramentas & Tecnologias
+### 🚀💻 Tools & Technologies
 <div style="display: inline_block"><br>
 <img align="center" alt="Patriota-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Patriota-Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -29,13 +29,13 @@ Estou aprofundando meus conhecimentos para migrar para a área de dados.
 <img align="center" alt="Patriota-Slack" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
 </div>
 
-## :iphone: Contatos
+### :iphone: Contacts
 <div>
 <a href="https://www.linkedin.com/in/reginaldopatriota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:netopatriota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 
 <div>
 <img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=netopatriota&count_private=true&theme=dark&include_all_commits=true" />
