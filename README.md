@@ -1,4 +1,4 @@
-### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Reginaldo Patriota!    
+### Hi! I'm Reginaldo Patriota! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">    
 
 ```
 Professional graduated in Information Technology and postgraduate in Data Engineering.
