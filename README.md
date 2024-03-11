@@ -16,6 +16,8 @@ I'm currently a researcher and master's student in Machine Learning at IFPB.
 <img align="center" alt="Patriota-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
 <img align="center" alt="Patriota-AWS" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="center" alt="Patriota-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img align="center" alt="Patriota-Terraform" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/terraform/terraform-original-wordmark.svg">
+<img align="center" alt="Patriota-Scikitlearn" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg">
 <br>
 <img align="center" alt="Patriota-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
 <img align="center" alt="Patriota-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -26,6 +28,9 @@ I'm currently a researcher and master's student in Machine Learning at IFPB.
 <img align="center" alt="Patriota-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 <img align="center" alt="Patriota-GCP" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg">
 <img align="center" alt="Patriota-Jira" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg">
+<img align="center" alt="Patriota-Streamlit" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg">
+<img align="center" alt="Patriota-Tensorflow" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original-wordmark.svg">
+
 </div>
 
 ### :iphone: Contacts
