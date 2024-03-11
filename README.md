@@ -14,8 +14,8 @@ I'm currently a researcher and master's student in Machine Learning at IFPB.
 <img align="center" alt="Patriota-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Patriota-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Patriota-MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
-<img align="center" alt="Patriota-AWS" height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)">
-<img align="center" alt="Patriota-Amazon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img align="center" alt="Patriota-AWS" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<img align="center" alt="Patriota-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <br>
 <img align="center" alt="Patriota-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
 <img align="center" alt="Patriota-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -24,8 +24,8 @@ I'm currently a researcher and master's student in Machine Learning at IFPB.
 <img align="center" alt="Patriota-GitLab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
 <img align="center" alt="Patriota-Grafana" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg">
 <img align="center" alt="Patriota-Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-<img align="center" alt="Patriota-Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
-<img align="center" alt="Patriota-Slack" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+<img align="center" alt="Patriota-GCP" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/googlecloud/googlecloud-original.svg">
+<img align="center" alt="Patriota-Jira" height="40" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jira/jira-original-wordmark.svg">
 </div>
 
 ### :iphone: Contacts
@@ -37,7 +37,7 @@ I'm currently a researcher and master's student in Machine Learning at IFPB.
 ### ⚡ GitHub Stats
 
 <div>
-<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=netopatriota&count_private=true&theme=dark&include_all_commits=true" />
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=netopatriota&show_icons=true&theme=dark#gh-dark-mode-only&include_all_commits=true" />
 <img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netopatriota&layout=compact&theme=dark&include_all_commits=true" />
 </div>
 
